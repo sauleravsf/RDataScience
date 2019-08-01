@@ -1,0 +1,9 @@
+Logical functions
+
+any() - one of the elements inside a logical vector is T
+all() - all of the elements inside a logical vector is T
+which() - which element inside a vector is T
+Sample() - alleatory sampling of integers where the range is defined by the number
+xor() - if the elements inside a vector are different, the result is T; otherwise, F.
+identical(a,b) - if a and b are identical
+isTRUE () - if the expression is TRUE
